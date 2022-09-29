@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @FBBABDU
 - 👀 I’m interested in web design and development 
-- 🌱 I’m currently learning python 
+- 🌱 I’m currently learning python, html & css 
 - 💞️ I’m looking to collaborate on JavaScript 
 - 📫 How to reach me on GitHub @FBBABDU
 
